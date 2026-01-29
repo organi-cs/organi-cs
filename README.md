@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hey, I'm Samputhy! ꉂ(˵˃ ᗜ ˂˵)
 
-<!--
-**organi-cs/organi-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student from Cambodia into math, CS, and building things that solve real problems. I love competition math, cybersecurity, and lately I've been exploring how to make Cambodian public data more accessible.
 
-Here are some ideas to get you started:
+When I'm not studying, I tutor competition math, mess around with ML projects, and occasionally design things for student orgs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning: web dev, data visualization, and how to not break production. 🛠️
+
+Find me here:
+- 📧 Email: [wis.chester.08@gmail.com](mailto:wis.chester.08@gmail.com)
+- 🔗 LinkedIn: [Samputhy Khim](https://www.linkedin.com/in/samputhy-khim-a159b1339/)
+
+> *Slowly building things, one commit at a time.* ✨
