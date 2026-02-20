@@ -8,6 +8,6 @@ Currently learning: web dev, data visualization, and how to not break production
 
 Find me here:
 - 📧 Email: [wis.chester.08@gmail.com](mailto:wis.chester.08@gmail.com)
-- 🔗 LinkedIn: [Samputhy Khim](https://www.linkedin.com/in/samputhy-khim-a159b1339/)
+- 🔗 LinkedIn: [Samputhy Khim](https://www.linkedin.com/in/samputhy-khim/)
 
 > *Slowly building things, one commit at a time.* ✨
